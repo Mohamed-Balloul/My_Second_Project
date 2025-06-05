@@ -1,0 +1,12 @@
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb

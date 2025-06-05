@@ -1,0 +1,15 @@
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\bin\Debug\net6.0\Business.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\bin\Debug\net6.0\ref\Business.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\tecga\Desktop\homeworkk\TodoSolution\Business\obj\Debug\net6.0\Business.pdb
