@@ -32,7 +32,12 @@ namespace NTierTodoApp.DataAccess
         {
             // TODO: ابحث عن المهمة باستخدام id
             // TODO: إذا كانت المهمة موجودة، قم بإزالتها من القائمة
-            
+            var taskToRemove = tasks.FirstOrDefault(t => t.Id == id);
+            if (taskToRemove != null)
+            {
+                tasks.Remove(taskToRemove);
+            }
+
         }
 
     }
